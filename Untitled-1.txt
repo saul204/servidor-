@@ -1,0 +1,4 @@
+
+cellcius=floar(imput(introduce una temperatura en grados celcius))
+farenheit=(1*8*celcius)+32 print (la temperatura )farenheit es :farenheit
+
